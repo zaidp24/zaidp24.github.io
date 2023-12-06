@@ -1,6 +1,6 @@
 ---
 title: Bruteforce Write-up (Blue Team Labs Online)
-date: 2023-12-05 01:51:00 -0500
+date: 2023-12-05 13:51:00 -0500
 categories: [Write-ups, Blue Team Labs Online]
 tags: [incident response, bruteforce attack, rdp, event viewer, log analysis] # TAG names should always be lowercase
 ---
