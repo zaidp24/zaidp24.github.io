@@ -76,7 +76,7 @@ _Log details containing unusual user agent_
 > Bitsadmin is a command-line tool used to download or upload files on Windows machines.
 {: .prompt-info }
 
-***Answer: bitsdmin***
+***Answer: bitsadmin***
 
 ### Q4. The infected machine connected with a famous filesharing site in this period, which also acts as a C2 server used by the malware authors to communicate. What is the name of the filesharing site?
 
