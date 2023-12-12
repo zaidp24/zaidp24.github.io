@@ -233,8 +233,6 @@ The primary structure of a snort rule is shown below:
 ![snort-rule-diagram](/assets/img/snort-rule-diagram.png)
 _Snort Rule Structure Diagram_
 
-[Snorpy](http://snorpy.cyb3rs3c.net/) is a web based snort rule creator.
-
 Snort actions:
 
 - alert - generate an alert and log the packet
